@@ -36,6 +36,10 @@ Pull requests welcome!
 ## TODO
 
 - [ ] Encryption
+- [ ] Source: Bluesky
+- [ ] Source: Mastodon
+
+Pull requests welcome!
 
 ## License
 
