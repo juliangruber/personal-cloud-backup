@@ -38,6 +38,7 @@ Pull requests welcome!
 - [ ] Encryption
 - [ ] Source: Bluesky
 - [ ] Source: Mastodon
+- [ ] Source: XMPP
 
 Pull requests welcome!
 
