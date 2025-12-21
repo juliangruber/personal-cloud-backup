@@ -1,18 +1,18 @@
-# imap
+# IMAP
 
 Here is how to back up your IMAP email server via `rclone` and `offlineimap`.
 
-## requirements
+## Requirements
 
 - [offlineimap](https://github.com/OfflineIMAP/offlineimap3)
 
-## backup command
+## Backup command
 
 ```console
 offlineimap && rclone sync <OFFLINEIMAP_MAILBOX_FOLDER> <RCLONE_DESTINATION>
 ```
 
-## offlineimap config
+## Offlineimap config
 
 ### `~/.offlineimaprc`
 

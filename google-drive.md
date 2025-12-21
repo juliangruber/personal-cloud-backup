@@ -1,14 +1,14 @@
-# google drive
+# Google Drive
 
 Here is how to back up your Google Drive via `rclone`.
 
-## backup command
+## Backup command
 
 ```console
 rclone sync <RCLONE_SOURCE_NAME>: <RCLONE_DESTINATION>
 ```
 
-## rclone config
+## Rclone config
 
 ```ini
 [<RCLONE_SOURCE_NAME>]
@@ -20,8 +20,4 @@ token = <GOOGLE_TOKEN>
 team_drive =
 ```
 
-## TODO
-
-- [ ] Link to rclone documentation for setup process
-
-
+See https://rclone.org/drive/ for documentation.

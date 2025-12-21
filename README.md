@@ -1,4 +1,4 @@
-# personal cloud backup
+# Personal Cloud Backup
 
 There are cloud service you use, either because they make your life easier than self hosting, or because there are no alternatives. In order to keep some ownership of your data, periodically your data up to cold storage, like [Scaleway Glacier](https://www.scaleway.com/en/glacier-cold-storage/). After implementing personal cloud backups, a cloud provider can disappear, or lose your data, and you can recover and move to a different solution.
 

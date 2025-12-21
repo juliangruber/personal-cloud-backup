@@ -1,14 +1,14 @@
-# github
+# GitHub
 
 Here is how to back up your GitHub repositories via `rclone` and Node.js.
 
-## backup command
+## Backup command
 
 ```console
 node github-list-repos.js | xargs -I{} sh -c 'echo {} && rclone copyurl https://github.com/<GITHUB_USERNAME>/{}/zipball/HEAD <RCLONE_DESTINATION>/{}.zip'
 ```
 
-## backup scripts
+## Backup scripts
 
 ### `github-list-repos.js`
 

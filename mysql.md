@@ -1,8 +1,8 @@
-# mysql
+# MySQL
 
 Here is how to back up your MySQL database via `mysqldump` and `rclone`.
 
-## backup command
+## Backup command
 
 ```console
 mysqldump \

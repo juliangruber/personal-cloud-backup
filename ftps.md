@@ -1,14 +1,14 @@
-# ftps
+# FTPS
 
 Here is how to back up your FTPS server via `rclone`.
 
-## backup command
+## Backup command
 
 ```console
 rclone sync <RCLONE_SOURCE_NAME>: <RCLONE_DESTINATION>
 ```
 
-## rclone config
+## Rclone config
 
 ```ini
 [<RCLONE_SOURCE_NAME>]
