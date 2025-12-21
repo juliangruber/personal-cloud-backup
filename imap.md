@@ -2,6 +2,10 @@
 
 Here is how to back up your IMAP email server via `rclone` and `offlineimap`.
 
+## requirements
+
+- [offlineimap](https://github.com/OfflineIMAP/offlineimap3)
+
 ## backup command
 
 ```console
@@ -33,9 +37,8 @@ remotepass = <IMAP_PASSWORD>
 sslcacertfile = <IMAP_CERT_PATH>
 ```
 
+Download the SSL CA certificate file from your imap provider, and put it on disk. You can use your browser to inspect the certificate and download it.
+
 ## TODO
 
 - [ ] Don't inline cleartext password
-- [ ] Link to `offlineimap` setup instructions
-- [ ] Document certificate steps
-
