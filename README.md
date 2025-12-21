@@ -1,4 +1,4 @@
-# personal-cloud-backup
+# personal cloud backup
 
 There are cloud service you use, either because they make your life easier than self hosting, or because there are no alternatives. In order to keep some ownership of your data, periodically your data up to cold storage, like [Scaleway Glacier](https://www.scaleway.com/en/glacier-cold-storage/). After implementing personal cloud backups, a cloud provider can disappear, or lose your data, and you can recover and move to a different solution.
 
@@ -12,6 +12,8 @@ I have these scripts run weekly from a small hetzner server, using crontab, but 
 All sources require:
 
 - [Rclone](https://rclone.org/)
+
+You also need to set up at least one `rclone` destination, to back up your files to.
 
 Individual sources might come with their own requirements.
 
@@ -33,9 +35,7 @@ Pull requests welcome!
 
 ## TODO
 
-- [ ] Describe rclone destination setup
 - [ ] Encryption
-
 
 ## License
 
