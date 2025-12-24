@@ -2,6 +2,8 @@
 
 Here is how to back up your Google Drive via `rclone`.
 
+You can also use [Google Takeout](https://takeout.google.com/) for an export of most of your Google data in one go.
+
 ## Backup command
 
 ```console
