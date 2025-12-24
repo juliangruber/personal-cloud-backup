@@ -33,12 +33,13 @@ Pull requests welcome!
 
 - [CronTab](./crontab.md)
 
-## TODO
+## Roadmap
 
 - [ ] Encryption
 - [ ] Source: Bluesky
 - [ ] Source: Mastodon
 - [ ] Source: XMPP
+- [ ] Dockerize
 
 Pull requests welcome!
 
