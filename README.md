@@ -55,7 +55,7 @@ Pull requests welcome!
 
 ## Kudos
 
-- Kudos to @bajtos for encouraging me to package and open source these scripts
+- Kudos to [@bajtos](https://github.com/bajtos) for encouraging me to package and open source these scripts
 
 ## License
 
