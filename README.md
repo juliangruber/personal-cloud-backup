@@ -13,7 +13,7 @@ All sources require:
 
 - [Rclone](https://rclone.org/)
 
-You also need to set up at least one `rclone` destination, to back up your files to.
+You also need to set up at least one `rclone` destination, to back up your files to. I personally use Scaleway Glacier using the [Rclone S3 integration](https://rclone.org/s3/#scaleway).
 
 Individual sources might come with their own requirements.
 
