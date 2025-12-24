@@ -36,9 +36,19 @@ Pull requests welcome!
 ## Roadmap
 
 - [ ] Encryption
-- [ ] Source: Bluesky
-- [ ] Source: Mastodon
-- [ ] Source: XMPP
+- [ ] Sources
+  - [ ] Bluesky
+  - [x] CalDav
+  - [x] Cron
+  - [x] FTPS
+  - [x] GitHub
+  - [x] Google Drive
+  - [ ] Google Notes
+  - [x] IMAP
+  - [ ] Mastodon
+  - [x] MySQL
+  - [x] SFTP
+  - [ ] XMPP
 - [ ] Dockerize
 
 Pull requests welcome!
