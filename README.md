@@ -53,6 +53,10 @@ Pull requests welcome!
 
 Pull requests welcome!
 
+## Kudos
+
+- Kudos to @bajtos for encouraging me to package and open source these scripts
+
 ## License
 
 Copyright 2025 Julian Gruber <mail@juliangruber.com>
