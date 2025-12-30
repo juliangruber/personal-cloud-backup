@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  backup:
+    build: .
+    volumes:
+      - ./scripts:/scripts
+      - ./config:/config
+      - ./data:/data
